@@ -8,14 +8,13 @@ The course starts with coverage of fundamental network protocol primitives suppo
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Understand the problems that Docker solves and make your foundation strong 
-<LI>Know when to use Docker and install Docker on your local machine 
-<LI>Build and run your first container 
-<LI>Integrate Docker with Docker-maven-plugin 
-<LI>See how to create Dockerfiles that can be containerized 
-<LI>Explore Docker to automate, build, and deploy more complex distributed architectures 
-<LI>Handle persistence inside Docker images 
-<LI>Build a distributed architecture using swarm with Docker </LI></UL></DIV>
+<LI>Understand Go networking primitive support for the Internet Protocol
+<LI>Create Go tools using concepts such as IP addressing and DNS lookup
+<LI>Understand how to create programs using Go’s support for the UDP protocol
+<LI>Explore programming sockets in Go for protocols such as Unix Data Socket and TCP
+<LI>Apply Go’s streaming IO primitives to network programming with TCP
+<LI>Create rich application-level protocols using data encoding and serialization
+<LI>Create client and server programs with secure sockets using TLS </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
